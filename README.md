@@ -7,17 +7,6 @@ Specializing in <strong>XAI (Explainable AI)</strong>, <strong>NLP (Natural Lang
 
 ---
 
-## :link: Connect *with me*
-
-<a href="https://www.linkedin.com/in/carlsnog/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:carlosnogueira.jrf@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-carlosnogueira.jrf@gmail.com-563D7C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
----
 
 ## :brain: Areas of *Expertise*
 
@@ -74,55 +63,6 @@ Specializing in <strong>XAI (Explainable AI)</strong>, <strong>NLP (Natural Lang
 
 ## :mag_right: Study *Focus Areas*
 
-**Explainable AI (XAI)**
-
-* Development of interpretable and transparent AI models
-* Interpretability techniques for deep learning
-
-**Natural Language Processing (NLP)**
-
-* Natural language processing and understanding
-* Transformer models and commercial applications
-
-**MLOps & Commercial Analytics**
-
-* Operationalization and deployment of Machine Learning models
-* Business Intelligence for data-driven decision making
-
-**Geoprocessing & Spatial Analysis**
-
-* Geographic Information Systems (GIS) for commercial analysis
-* Interactive visualization of geospatial data
-* Integration of spatial data with business intelligence
-
-**Data Science for Business**
-
-* Predictive analytics for commercial contexts
-* KPIs and business metrics guided by data
-* Data visualization for stakeholders
-
----
-
-## :books: Featured Projects
-
-### 📄 Academic Publications
-
-🎯 Coming Soon
-
-#### How Effectively Do LLMs Automate Data Analysis? A Comparative Study with ChatGPT's Data Analyst, Grok, and Qwen
-
-**Authors**: Nogueira et al. (first author)
-**Journal**: Journal of Information and Data Management
-**Status**: *Submitted and Accepted - Awaiting publication*
-
-##### 📋 Abstract
-
-A comprehensive comparative study evaluating the effectiveness of different Large Language Models (LLMs) in automating data analysis tasks. The research investigates the capabilities of ChatGPT's Data Analyst, Grok and Qwen across various data analysis operations, providing valuable insights into the current state of intelligent automation for analytical processes.
-
-##### 🔍 Main Topics Covered:
-
-* Comparative evaluation of LLMs for data analysis
-* Effectiveness and accuracy metrics in analytical tasks
-* Automation of data analysis pipelines
+**Explainable AI (XAI)**; **Natural Language Processing (NLP)**; **MLOps & Commercial Analytics**; **Geoprocessing & Spatial Analysis**; **Data Science for Business**
 
 ---
