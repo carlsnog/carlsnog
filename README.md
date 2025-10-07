@@ -64,5 +64,3 @@ Specializing in <strong>XAI (Explainable AI)</strong>, <strong>NLP (Natural Lang
 ## :mag_right: Study *Focus Areas*
 
 **Explainable AI (XAI)**; **Natural Language Processing (NLP)**; **MLOps & Commercial Analytics**; **Geoprocessing & Spatial Analysis**; **Data Science for Business**
-
----
