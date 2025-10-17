@@ -50,14 +50,16 @@ Specializing in <strong>XAI (Explainable AI)</strong>, <strong>NLP (Natural Lang
 
 ---
 
-## :chart_with_upwards_trend: GitHub Stats
+<div align="center">
+  
+  ## 📊 GitHub Stats
+  <!-- GitHub Stats -->
+  <div>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=carlsnog&theme=transparent&show_icons=true&rank_icon=github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlsnog&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
+  </div>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlsnog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlsnog&layout=compact&theme=tokyonight&langs_count=8" />
-</a>
 
 ---
 
