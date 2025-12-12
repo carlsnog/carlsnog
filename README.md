@@ -26,7 +26,8 @@ Specializing in <strong>XAI (Explainable AI)</strong>, <strong>NLP (Natural Lang
 
 ### Tools & Frameworks
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Retool-1F425F?style=for-the-badge&logo=retool&logoColor=white">
+
 
 ---
 
@@ -52,16 +53,7 @@ Specializing in <strong>XAI (Explainable AI)</strong>, <strong>NLP (Natural Lang
 
 <div align="center">
   
-  ## 📊 GitHub Stats
-  <!-- GitHub Stats -->
-  <div>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=carlsnog&theme=transparent&show_icons=true&rank_icon=github" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlsnog&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
-  </div>
-</div>
 
-
----
 
 ## :mag_right: Study *Focus Areas*
 
